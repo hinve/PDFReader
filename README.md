@@ -34,3 +34,6 @@ python3 main.py
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+## Mentions
+I made this program following this tutorial: [https://www.youtube.com/watch?v=itRLRfuL_PQ](https://www.youtube.com/watch?v=itRLRfuL_PQ)
